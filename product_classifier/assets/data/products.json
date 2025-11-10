@@ -1,0 +1,242 @@
+{
+  "A_801_T": {
+    "name": "A 801 T",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak gampang aus)."
+    ],
+    "bahan": "Babet (Zinc), Kuningan (Brass), PEX (Polietilena) - AL (Alumunium) - PEX (Polietilena), Plastik, PVC, Stainless Steel 304",
+    "imagePath": "assets/images/A_801_T.jpg"
+  },
+  "BC": {
+    "name": "BC",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "As dan Bola berbahan kuningan (bukan bola besi) sehingga lebih awet",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/BC.jpg"
+  },
+  "BCS": {
+    "name": "BCS",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "As dan Bola berbahan kuningan (bukan bola besi) sehingga lebih awet",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/BCS.jpg"
+  },
+  "BL": {
+    "name": "BL",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak gampang aus)."
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/BL.jpg"
+  },
+  "BM": {
+    "name": "BM",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak gampang aus)."
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/BM.jpg"
+  },
+  "CLS_02": {
+    "name": "CLS 02",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak gampang aus)."
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/CLS_02.jpg"
+  },
+  "CLS_04": {
+    "name": "CLS 04",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak gampang aus)."
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/CLS_04.jpg"
+  },
+  "JF_03_TA": {
+    "name": "JF 03 TA",
+    "category": "Stop Kran",
+    "description": "Stop kran dengan 1 cabang yang pada umumnya dipakai untuk instalasi toilet. Dapat juga dipakai di : tempat cuci tangan, pemanas air, dan shower (umumnya dipakai untuk kloset dan Jet shower)",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Kuningan (Brass)",
+    "imagePath": "assets/images/JF_03_TA.jpg"
+  },
+  "JF_08_ST": {
+    "name": "JF 08 ST",
+    "category": "Stop Kran",
+    "description": "Stop kran dengan 2 cabang yang pada umumnya dipakai untuk instalasi toilet. Dapat juga dipakai di : tempat cuci tangan, pemanas air, dan shower (umumnya dipakai untuk kloset dan Jet shower)",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/JF_08_ST.jpg"
+  },
+  "K_406_CTG": {
+    "name": "K 406 CTG",
+    "category": "Kran Cabang",
+    "description": "Kran dengan 2 cabang yang dipakai umumnya untuk mengisi penampungan air (bak mandi / ember) dan menyalakan shower dengan ujung selang air.",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/K_406_CTG.jpg"
+  },
+  "K_407_MH": {
+    "name": "K 407 MH",
+    "category": "Kran Cabang",
+    "description": "Kran dengan 2 cabang yang dipakai umumnya untuk mengisi penampungan air (bak mandi / ember) dan menyalakan shower dengan filter",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/K_407_MH.jpg"
+  },
+  "K_409_GWC": {
+    "name": "K 409 GWC",
+    "category": "Kran Cabang",
+    "description": "Kran dengan 2 cabang yang dipakai umumnya untuk mengisi penampungan air (bak mandi / ember) dan menyalakan shower",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/K_409_GWC.jpg"
+  },
+  "KUBM": {
+    "name": "KUBM",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Area pemasangan umumnya: tempat wudhu, taman (sambungan selang air), WC umum & dipakai sebagai kran mesin cuci.",
+    "advantages": [
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak gampang aus)."
+    ],
+    "bahan":"Kuningan (Brass)",
+    "imagePath": "assets/images/KUBM.jpg"
+  },
+  "NBC": {
+    "name": "NBC",
+    "category": "Kran Tembok",
+    "description": "Kran yang dipasang di tembok (bisa dipakai di dalam maupun di luar ruangan). Terdapat ujung selang air.",
+    "advantages": [
+      "As dan Bola berbahan kuningan (bukan bola besi) sehingga lebih awet",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)"
+    ],
+    "bahan":"Kuningan (Brass)",
+    "imagePath": "assets/images/NBC.jpg"
+  },
+  "V_688_CA": {
+    "name": "V 688 CA",
+    "category": "Kran Dapur",
+    "description": "Kran air yang digunakan di dapur dengan model leher angsa fleksibel dan pemasangan di tembok. Leher flexible dipakai untuk menjangkau area sulit seperti sudut bak cuci (mempunyai 2 tipe semprotan) dan mencuci barang yang besar (panci, dll). Cocok untuk mencuci noda bandel (bertekanan tinggi).",
+    "advantages": [
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Leher berbahan stainless sehingga lebih tahan karat (bukan besi)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/V_688_CA.jpg"
+  },
+  "V_697_GKU": {
+    "name": "V 697 GKU",
+    "category": "Kran Dapur",
+    "description": "Kran air yang digunakan di dapur dengan model leher angsa fleksibel dan pemasangan di wastafel. Leher fleksibel dipakai untuk menjangkau area sulit seperti sudut bak cuci (mempunyai 2 tipe semprotan) dan mencuci barang yang besar (panci, dll). Cocok untuk mencuci noda bandel (bertekanan tinggi)",
+    "advantages": [
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Leher berbahan stainless sehingga lebih tahan karat (bukan besi)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama"
+    ],
+    "bahan":"Kuningan (Brass)",
+    "imagePath": "assets/images/V_697_GKU.jpg"
+  },
+  "V_TUL": {
+    "name": "V TUL",
+    "category": "Kran Dapur",
+    "description": "Kran air yang digunakan di dapur dengan model leher angsa fleksibel dan pemasangan di tembok. Leher flexible dipakai untuk menjangkau area sulit seperti sudut bak cuci (mempunyai 2 tipe semprotan) dan mencuci barang yang besar (panci, dll). Cocok untuk mencuci noda bandel (bertekanan tinggi).",
+    "advantages": [
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Leher berbahan stainless sehingga lebih tahan karat (bukan besi)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/V_TUL.jpg"
+  },
+  "Y_316_FA": {
+    "name": "Y 316 FA",
+    "category": "Kran Wastafel",
+    "description": "Kran yang dipakai di wastafel",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Keluaran aliran air lebih halus"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/Y_316_FA.jpg"
+  },
+  "Y_321_C": {
+    "name": "Y 321 C",
+    "category": "Kran Wastafel",
+    "description": "Kran yang dipakai di wastafel",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Keluaran aliran air lebih halus"
+    ],
+    "bahan":"Babet (Zinc)",
+    "imagePath": "assets/images/Y_321_C.jpg"
+  },
+  "Y_327_GKU": {
+    "name": "Y 327 GKU",
+    "category": "Kran Wastafel",
+    "description": "Kran yang dipakai di wastafel dengan bahan Kuningan",
+    "advantages": [
+      "Cartridge berbahan kuningan (bukan plastic) sehingga lebih awet (tidak mudah doll dan anti bocor)",
+      "Finishing chrome 3 lapis sehingga lebih tahan lama",
+      "Bahan zinc standar Eropa (bebas timbal sehingga lebih aman)",
+      "Keluaran aliran air lebih halus"
+    ],
+    "bahan":"Kuningan (Brass)",
+    "imagePath": "assets/images/Y_327_GKU.jpg"
+  }
+}
